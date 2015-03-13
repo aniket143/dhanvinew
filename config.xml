@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Dhanvi</name>
+    <description>
+        Dhanvi app 
+    </description>
+    <author email="dev@cordova.apache.org" href="http://cordova.io">
+        Apache Cordova Team
+    </author>
+    <content src="index.html" />
+     <icon src="www/icon.png" />
+<icon gap:platform="android" gap:qualifier="ldpi" src="www/res/drawable/icon.png" />
+<icon gap:platform="android" gap:qualifier="mdpi" src="www/res/mipmap-mdpi/ic_launcher.png" />
+<icon gap:platform="android" gap:qualifier="hdpi" src="www/res/mipmap-hdpi/ic_launcher.png" />
+<icon gap:platform="android" gap:qualifier="xhdpi" src="www/res/mipmap-xhdpi/ic_launcher.png" />
+<icon gap:platform="ios" height="57" src="www/res/mipmap-mdpi/ic_launcher.png" width="57" />
+<icon gap:platform="ios" height="72" src="www/res/mipmap-hdpi/ic_launcher.png" width="72" />
+<icon gap:platform="ios" height="114" src="www/res/mipmap-xhdpi/ic_launcher.png" width="114" />
+<icon gap:platform="ios" height="144" src="www/res/mipmap-xhdpi/ic_launcher.png" width="144" />
+    <access origin="*" />
+</widget>
