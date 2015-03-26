@@ -12,6 +12,9 @@
      <preference name="permissions" value="none"/>
      <icon src="www/icon.png" />
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 74d3ee65a33bc7d3da2fecac04138474bdb36c8c
     <access origin="*" />
 </widget>
